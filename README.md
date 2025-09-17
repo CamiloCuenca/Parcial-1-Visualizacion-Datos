@@ -30,10 +30,6 @@ Este proyecto analiza datos de ventas de videojuegos a nivel mundial, explorando
   - Seaborn
   - Jupyter Notebook
 
-## 👥 Autores
-
-- **Juan Camilo Cuenca Sepúlveda.**
-- **Diego Alexander Jiménez.**
 
 # 📊 Análisis de Datos de Videojuegos
 
@@ -53,3 +49,9 @@ Este proyecto analiza datos de ventas de videojuegos a nivel mundial, explorando
 
 ### 5. ¿Existe una relación entre la puntuación de los críticos y las ventas totales?
 <img src="Graficos/relacion_calificaciones_ventas.png" alt="Relación entre Puntuación y Ventas" width="600"/>
+
+
+## 👥 Autores
+
+- **Juan Camilo Cuenca Sepúlveda.**
+- **Diego Alexander Jiménez.**
